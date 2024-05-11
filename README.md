@@ -6,4 +6,5 @@ It triggers random phrases based on the keyword "freee". There are other shots o
 <h3>Change channel, network, and nick connection parameters to better suit your needs</h3>
 <center>
   <img src="https://lab.psy-k.org/blindos/cow.gif"></img>
-</center>
+   <img src="https://lab.psy-k.org/fotos/Dr-Kormanstein-sc-fi.png"></img>
+</center> 
